@@ -1,4 +1,4 @@
-# This repository is aimed to analyze status of placements of students which are from different streams.The data is taken from kaggle.
+## This repository is aimed to analyze status of placements of students which are from different streams.The data is taken from kaggle.
 
 
 
