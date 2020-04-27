@@ -3,7 +3,7 @@
 
 
 
-### Communication: most of my findings are communicated here   
+**Communication**: most of my findings are communicated here   
 
 Enviroment: Using jupyter notebooks,python 3
 
@@ -31,7 +31,7 @@ Enviroment: Using jupyter notebooks,python 3
 
 4.Does Percentage in College determine salary
 
-5.Does Work Experience affect placements?
+5.If we are having work experince,what is the status in getting placed ?
 
 
 ## Conclusion:
