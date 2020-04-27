@@ -3,7 +3,8 @@
 
 
 
-**Communication**: most of my findings are communicated here   
+**Communication**: 
+most of my findings are communicated here :  https://medium.com/@himucool1512/analyze-status-of-placements-of-students-b697424e08d4?sk=003631eec6557fcc74121a921063339c
 
 Enviroment: Using jupyter notebooks,python 3
 
