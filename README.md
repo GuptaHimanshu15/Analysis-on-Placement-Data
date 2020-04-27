@@ -1,10 +1,9 @@
-## This repository is aimed to analyze status of placements of students which are from different streams.The data is taken from kaggle.
+## This repository is aimed to analyze status of placements of students which are from different streams.The data is taken from kaggle.  
 
 
 
 
-
-### Communication: most of my findings are communicated here 
+### Communication: most of my findings are communicated here   
 
 Enviroment: Using jupyter notebooks,python 3
 
